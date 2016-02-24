@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [pwr4.PrjPcb]
+   Generated File[pwr4.GTL]
+   Generated File[pwr4.GBL]
+   Generated File[pwr4.GPB]
+   Generated File[pwr4.GPT]
+   Generated File[pwr4.GTO]
+   Generated File[pwr4.GTS]
+   Generated File[pwr4.GBS]
+   Generated File[pwr4.GBO]
+   Generated File[pwr4.GKO]
+   Generated File[pwr4.GM1]
+   Generated File[pwr4.RUL]
+   Generated File[pwr4.EXTREP]
+   Generated File[pwr4.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 5:22:31 PM On 2/23/2016

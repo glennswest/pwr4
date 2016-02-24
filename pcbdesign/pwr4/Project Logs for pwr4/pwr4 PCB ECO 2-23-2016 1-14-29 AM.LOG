@@ -1,0 +1,13 @@
+Added Component: Designator=D1(LED-3MM-GREEN)
+Added Component: Designator=R1(R)
+Added Component: Designator=R2(R)
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetJ1_8 Pin=R2-2
+Added Net: Name=NetJ1_8
+Added Pin To Net: NetName=V12 Pin=R1-1
+Added Net: Name=V12

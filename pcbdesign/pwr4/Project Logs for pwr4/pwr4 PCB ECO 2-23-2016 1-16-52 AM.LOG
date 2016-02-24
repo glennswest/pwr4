@@ -1,0 +1,70 @@
+Added Component: Designator=J1(46991-1024)
+Added Component: Designator=J2(45558)
+Added Component: Designator=J3(45558)
+Added Component: Designator=J4(45558)
+Added Component: Designator=J5(45558)
+Added Component: Designator=J6(45558)
+Added Component: Designator=J7(45558)
+Added Component: Designator=J8(45558)
+Added Component: Designator=J9(45558)
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=V12 Pin=J1-10
+Added Pin To Net: NetName=V12 Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-15
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-17
+Added Pin To Net: NetName=GND Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-19
+Added Pin To Net: NetName=GND Pin=J1-24
+Added Pin To Net: NetName=V12 Pin=J2-1
+Added Pin To Net: NetName=V12 Pin=J2-2
+Added Pin To Net: NetName=V12 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=V12 Pin=J3-1
+Added Pin To Net: NetName=V12 Pin=J3-2
+Added Pin To Net: NetName=V12 Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=V12 Pin=J4-1
+Added Pin To Net: NetName=V12 Pin=J4-2
+Added Pin To Net: NetName=V12 Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=V12 Pin=J5-1
+Added Pin To Net: NetName=V12 Pin=J5-2
+Added Pin To Net: NetName=V12 Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J5-6
+Added Pin To Net: NetName=V12 Pin=J6-1
+Added Pin To Net: NetName=V12 Pin=J6-2
+Added Pin To Net: NetName=V12 Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=V12 Pin=J7-1
+Added Pin To Net: NetName=V12 Pin=J7-2
+Added Pin To Net: NetName=V12 Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=V12 Pin=J8-1
+Added Pin To Net: NetName=V12 Pin=J8-2
+Added Pin To Net: NetName=V12 Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=GND Pin=J8-6
+Added Pin To Net: NetName=V12 Pin=J9-1
+Added Pin To Net: NetName=V12 Pin=J9-2
+Added Pin To Net: NetName=V12 Pin=J9-3
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Pin To Net: NetName=GND Pin=J9-5
+Added Pin To Net: NetName=GND Pin=J9-6
+Added Class: Name=Sheet0_Top
